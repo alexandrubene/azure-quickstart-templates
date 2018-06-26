@@ -366,4 +366,10 @@
       }
     }
   ]
+  "outputs":{
+	"URL":{
+    "type": "string",
+	  "value": "abene-test";
+	}
+  }
 }
